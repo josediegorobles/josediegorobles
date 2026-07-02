@@ -9,7 +9,6 @@ I help technical founders and CTOs build and scale complex software systems — 
 <p>
   <a href="https://github.com/josediegorobles/btc-risk-lab"><strong>btc-risk-lab</strong></a><br>
   Explainable Bitcoin risk analysis CLI in Rust for transactions, PSBTs, scripts, and due diligence reports.<br>
-  <a href="https://github.com/josediegorobles/btc-risk-lab"><img alt="GitHub stars" src="https://img.shields.io/github/stars/josediegorobles/btc-risk-lab?style=flat&label=stars"></a>
   <img alt="Primary language: Rust" src="https://img.shields.io/badge/primary-Rust-orange">
   <br>
   <a href="https://github.com/josediegorobles/btc-risk-lab">Read more &rarr;</a>
@@ -18,7 +17,6 @@ I help technical founders and CTOs build and scale complex software systems — 
 <p>
   <a href="https://github.com/josediegorobles/rust-technical-audit-toolkit"><strong>rust-technical-audit-toolkit</strong></a><br>
   CLI-first Rust workspace for architecture, dependency, code quality, testing, and risk assessment audits.<br>
-  <a href="https://github.com/josediegorobles/rust-technical-audit-toolkit"><img alt="GitHub stars" src="https://img.shields.io/github/stars/josediegorobles/rust-technical-audit-toolkit?style=flat&label=stars"></a>
   <img alt="Primary language: Rust" src="https://img.shields.io/badge/primary-Rust-orange">
   <br>
   <a href="https://github.com/josediegorobles/rust-technical-audit-toolkit">Read more &rarr;</a>
@@ -27,16 +25,30 @@ I help technical founders and CTOs build and scale complex software systems — 
 <p>
   <a href="https://github.com/josediegorobles/ai-due-diligence-playbook"><strong>ai-due-diligence-playbook</strong></a><br>
   Practical checklists, templates, and AI Act-aware frameworks for technical diligence before deployment, acquisition, or investment.<br>
-  <a href="https://github.com/josediegorobles/ai-due-diligence-playbook"><img alt="GitHub stars" src="https://img.shields.io/github/stars/josediegorobles/ai-due-diligence-playbook?style=flat&label=stars"></a>
   <img alt="Primary format: Docs" src="https://img.shields.io/badge/primary-Docs-informational">
   <br>
   <a href="https://github.com/josediegorobles/ai-due-diligence-playbook">Read more &rarr;</a>
 </p>
 
 <p>
+  <a href="https://github.com/josediegorobles/company-risk-osint-workbench"><strong>company-risk-osint-workbench</strong></a><br>
+  Local-only company OSINT due diligence workbench for source tracking, analyst notes, evidence status, and report generation.<br>
+  <img alt="Primary language: Python" src="https://img.shields.io/badge/primary-Python-blue">
+  <br>
+  <a href="https://github.com/josediegorobles/company-risk-osint-workbench">Read more &rarr;</a>
+</p>
+
+<p>
+  <a href="https://github.com/josediegorobles/ai-vendor-risk-review-kit"><strong>ai-vendor-risk-review-kit</strong></a><br>
+  Procurement-grade AI vendor risk review kit for data exposure, AI Act role, security questions, controls, and decision memos.<br>
+  <img alt="Primary language: JavaScript" src="https://img.shields.io/badge/primary-JavaScript-yellow">
+  <br>
+  <a href="https://github.com/josediegorobles/ai-vendor-risk-review-kit">Read more &rarr;</a>
+</p>
+
+<p>
   <a href="https://github.com/josediegorobles/technical-due-diligence-demo"><strong>technical-due-diligence-demo</strong></a><br>
   Public demo of a 72-hour Technical Due Diligence Flash engagement: scope, evidence trail, findings, and report shape.<br>
-  <a href="https://github.com/josediegorobles/technical-due-diligence-demo"><img alt="GitHub stars" src="https://img.shields.io/github/stars/josediegorobles/technical-due-diligence-demo?style=flat&label=stars"></a>
   <img alt="Primary format: Docs" src="https://img.shields.io/badge/primary-Docs-informational">
   <br>
   <a href="https://github.com/josediegorobles/technical-due-diligence-demo">Read more &rarr;</a>
@@ -64,16 +76,10 @@ I help technical founders and CTOs build and scale complex software systems — 
 
 ## GitHub signal
 
-<p>
-  <img alt="Jose Robles GitHub stats" src="https://github-readme-stats.vercel.app/api?username=josediegorobles&show_icons=false&include_all_commits=true&hide=issues&rank_icon=none&theme=transparent">
-</p>
-
-<p>
-  <img alt="Jose Robles top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josediegorobles&layout=compact&langs_count=6&theme=transparent">
-</p>
+[Full GitHub profile](https://github.com/josediegorobles)
 
 ---
 
 Spain — available remotely worldwide<br>
-[jd.robles@gmail.com](mailto:jd.robles@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jose-robles-644a4352/)<br>
+[jd.robles@gmail.com](mailto:jd.robles@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jose-robles-644a4352)<br>
 Book a 30-min intro call → [calendly.com/jd-robles](https://calendly.com/jd-robles)
