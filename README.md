@@ -81,5 +81,5 @@ I help technical founders and CTOs build and scale complex software systems — 
 ---
 
 Spain — available remotely worldwide<br>
-[jd.robles@gmail.com](mailto:jd.robles@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jose-robles-644a4352)<br>
-Book a 30-min intro call → [calendly.com/jd-robles](https://calendly.com/jd-robles)
+jose@josedrobles.com · [LinkedIn](https://www.linkedin.com/in/jose-robles-644a4352/)<br>
+Scope a technical decision → [cal.com/jose-d-robles/technical-review](https://cal.com/jose-d-robles/technical-review)
