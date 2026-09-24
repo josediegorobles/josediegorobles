@@ -82,4 +82,4 @@ I help technical founders and CTOs build and scale complex software systems — 
 
 Spain — available remotely worldwide<br>
 jose@josedrobles.com · [LinkedIn](https://www.linkedin.com/in/jose-robles-644a4352/)<br>
-Scope a technical decision → [cal.com/jose-d-robles/technical-review](https://cal.com/jose-d-robles/technical-review)
+Scope a technical decision → [Technical Risk Review ($3,500 Fixed)](https://josedrobles.com/r/gh-d2-review) or grab the [D2 Scorecard](https://josedrobles.com/r/lm-scorecard-gh)
