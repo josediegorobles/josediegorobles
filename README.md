@@ -2,6 +2,8 @@
 
 **Fractional Head of Engineering · Rust · Bitcoin Protocol · AI Systems**
 
+Services: [3-Day Technical Risk Review](https://josedrobles.com/due-diligence/) · [IA privada](https://josedrobles.com/es/ia-privada/) · [Automatización de procesos](https://josedrobles.com/es/automatizacion/) · [Fractional Head of Engineering](https://josedrobles.com/fractional-engineering/)
+
 I help technical founders and CTOs build and scale complex software systems — from architecture to team structure to production. Physicist by training; engineer by practice.
 
 ## Public work
